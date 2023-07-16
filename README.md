@@ -4,8 +4,8 @@ This project aims to design and implement a System-on-Chip (SoC) that integrates
 
 The project showcases the implementation of an advanced SoC architecture that supports data transfers, addressing, DMA requests, acknowledgments, arbitration between multiple modules, priority handling, error detection/correction mechanisms, and more. It serves as a platform to explore and understand the nuances and design principles involved in building a full-featured SoC.
 
-# Modules
-DMA Controller
+## Modules
+# DMA Controller
 The DMA Controller module provides efficient data transfers between various modules within the SoC. It handles DMA requests, manages data movement between memory and peripherals, and ensures reliable and high-speed transfers. The DMA Controller is designed to optimize data throughput and minimize CPU intervention.
 
 # On-Chip SRAM
